@@ -435,4 +435,6 @@ This enhanced system is designed to be extensible:
 
 ## 📄 License
 
-MIT License - Feel free to modify and extend for your research needs!
+Socials: 
+LinkedIn: https://www.linkedin.com/in/marcus-frid-johansson/
+X/Twitter: https://x.com/marcusjihansson
